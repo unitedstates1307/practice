@@ -1,0 +1,14 @@
+main {
+	width: 50%;
+	margin: 0 auto;
+}
+.buttons {
+	margin: 0 auto;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#displayColor {
+	font-size: 24px;
+	text-align: center;
+}
+
